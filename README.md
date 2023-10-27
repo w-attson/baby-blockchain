@@ -6,15 +6,15 @@ This project was completed to demonstrate knowledge on how to build a simple blo
 
 Below outlines the steps taken in the project:
 
-1. [Create a Record Data Class](create-a-record-data-class)
-2. [Modify Block Data Class to Store Record Data](modify-block-data-class-to-store-record-data)
-3. [Refine the Streamlit Interface](refine-the-streamlit-interface)
-4. [Test the PyChain Ledger](test-the-pychain-ledger)
-    * [Genesis Block](genesis-block)
-    * [The Ledger](the-ledger)
-    * [Block Inspector](block-inspector)
-    * [Detailed Inspection](detailed-inspection)
-    * [Blockchain Validation](blockchain-validation)
+1. [Create a Record Data Class](#create-a-record-data-class)
+2. [Modify Block Data Class to Store Record Data](#modify-block-data-class-to-store-record-data)
+3. [Refine the Streamlit Interface](#refine-the-streamlit-interface)
+4. [Test the PyChain Ledger](#test-the-pychain-ledger)
+    * [Genesis Block](#genesis-block)
+    * [The Ledger](#the-ledger)
+    * [Block Inspector](#block-inspector)
+    * [Detailed Inspection](#detailed-inspection)
+    * [Blockchain Validation](#blockchain-validation)
   
 ### Create a Record Data Class
 * This section holds the relevant data in the Record class to enable historical recordings.
